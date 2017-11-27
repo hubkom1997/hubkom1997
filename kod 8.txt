@@ -2,7 +2,7 @@
 
 // Linijka Pierwsza    Zmiana 8 w ga³êzi
 // Linijka Druga
-// Linijka Trzecia 
+// Linijka Trzecia jb
 // Linijka Czwarta
 
 void zgadywanie_liczby();

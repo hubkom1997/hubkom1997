@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-// Linijka Pierwsza      Zmiana 1 w ga³êzi
+
+// Linijka Pierwsza   Master    Zmiana 1 w gaï¿½ï¿½zi
 // Linijka Druga
 // Linijka Trzecia 
 // Linijka Czwarta
