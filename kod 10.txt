@@ -3,7 +3,7 @@
 // Linijka Pierwsza
 // Linijka Druga
 // Linijka Trzecia 
-// Linijka Czwarta
+// Linijka Czwartakhbk
 
 void zgadywanie_liczby();
 int zakres();

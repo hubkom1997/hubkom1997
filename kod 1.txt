@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Linijka Pierwsza
+// Linijka Pierwsza   Master
 // Linijka Druga
 // Linijka Trzecia 
 // Linijka Czwarta

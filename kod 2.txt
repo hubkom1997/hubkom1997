@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Linijka Pierwsza
-// Linijka Druga
+// Linijka Druga	master
 // Linijka Trzecia 
 // Linijka Czwarta
 
