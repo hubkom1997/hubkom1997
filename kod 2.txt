@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-// Linijka Pierwsza
-// Linijka Druga	master
+// Linijka Pierwsza   
+// Linijka Druga	master   Zmiana 2 w ga��zi
 // Linijka Trzecia 
 // Linijka Czwarta
 
